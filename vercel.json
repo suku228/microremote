@@ -1,5 +1,4 @@
 {
-  "buildCommand": "npm run build:remote",
   "outputDirectory": "dist",
   "env": {
     "NODE_ENV": "production"
