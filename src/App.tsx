@@ -27,7 +27,7 @@ export default function App() {
             fontSize: "14px",
           }}
         >
-          Decrement --
+          --
         </button>
 
         <div
@@ -56,7 +56,7 @@ export default function App() {
             fontSize: "14px",
           }}
         >
-          Increment 
+          ++ 
         </button>
       </div>
 
